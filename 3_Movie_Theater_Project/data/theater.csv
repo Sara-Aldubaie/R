@@ -1,0 +1,134 @@
+﻿Day,Movie,Rating,Seats_Occupied,Num_Children,Num_Adult,Screen,Total_Seats_Available
+1,The Hobbit,R,34,0,34,1,34
+1,Totoro,G,37,9,27,2,45
+1,Howls Moving Castle,G,25,6,18,3,30
+1,Spirited Away,G,32,8,24,4,40
+1,Pokemon 4Ever,G,42,10,31,5,50
+1,Harry Potter,R,30,0,30,6,34
+1,The Dark Knight,R,37,0,37,7,45
+1,The Lord of the Rings,R,26,0,26,8,30
+1,Inception,R,37,0,37,9,40
+1,The Matrix,R,36,0,36,10,50
+1,Parasite,R,27,0,27,11,34
+1,Bridge to Terabithia,G,43,9,27,12,45
+1,Thunder Force,R,26,0,26,13,30
+1,The Nevers,G,36,9,27,14,40
+1,Love and Monsters,R,32,0,32,15,50
+1,Them,R,35,0,35,16,45
+1,Split,R,31,0,31,17,36
+1,Us,R,29,0,29,18,35
+1,Big Mommas,R,40,0,40,19,40
+2,The Hobbit,R,34,0,34,1,34
+2,Totoro,G,25,6,18,2,45
+2,Howls Moving Castle,G,29,7,21,3,30
+2,Spirited Away,G,25,6,18,4,40
+2,Pokemon 4Ever,G,38,9,28,5,50
+2,Harry Potter,R,26,0,26,6,34
+2,The Dark Knight,R,44,0,44,7,45
+2,The Lord of the Rings,R,29,0,29,8,30
+2,Inception,R,32,0,32,9,40
+2,The Matrix,R,42,0,42,10,50
+2,Parasite,R,30,0,30,11,34
+2,Bridge to Terabithia,G,26,6,18,12,45
+2,Thunder Force,R,27,0,27,13,30
+2,The Nevers,G,34,6,18,14,40
+2,Love and Monsters,R,44,0,44,15,50
+2,Them,R,36,0,36,16,45
+2,Split,R,34,0,34,17,36
+2,Us,R,35,0,35,18,35
+2,Big Mommas,R,32,0,32,19,40
+3,The Hobbit,R,29,0,29,1,34
+3,Totoro,G,29,7,21,2,45
+3,Howls Moving Castle,G,25,6,18,3,30
+3,Spirited Away,G,25,6,18,4,40
+3,Pokemon 4Ever,G,32,8,24,5,50
+3,Harry Potter,R,26,0,26,6,34
+3,The Dark Knight,R,28,0,28,7,45
+3,The Lord of the Rings,R,28,0,28,8,30
+3,Inception,R,25,0,25,9,40
+3,The Matrix,R,47,0,47,10,50
+3,Parasite,R,30,0,30,11,34
+3,Bridge to Terabithia,G,33,7,21,12,45
+3,Thunder Force,R,26,0,26,13,30
+3,The Nevers,G,25,7,21,14,40
+3,Love and Monsters,R,47,0,47,15,50
+3,Them,R,28,0,28,16,45
+3,Split,R,26,0,26,17,36
+3,Us,R,34,0,34,18,35
+3,Big Mommas,R,28,0,28,19,40
+4,The Hobbit,R,34,0,34,1,34
+4,Totoro,G,30,7,22,2,45
+4,Howls Moving Castle,G,30,7,22,3,30
+4,Spirited Away,G,29,7,21,4,40
+4,Pokemon 4Ever,G,28,7,21,5,50
+4,Harry Potter,R,29,0,29,6,34
+4,The Dark Knight,R,40,0,40,7,45
+4,The Lord of the Rings,R,28,0,28,8,30
+4,Inception,R,30,0,30,9,40
+4,The Matrix,R,28,0,28,10,50
+4,Parasite,R,31,0,31,11,34
+4,Bridge to Terabithia,G,41,7,22,12,45
+4,Thunder Force,R,29,0,29,13,30
+4,The Nevers,G,35,7,22,14,40
+4,Love and Monsters,R,47,0,47,15,50
+4,Them,R,25,0,25,16,45
+4,Split,R,29,0,29,17,36
+4,Us,R,35,0,35,18,35
+4,Big Mommas,R,36,0,36,19,40
+5,The Hobbit,R,31,0,31,1,34
+5,Totoro,G,35,8,26,2,45
+5,Howls Moving Castle,G,29,7,21,3,30
+5,Spirited Away,G,25,6,18,4,40
+5,Pokemon 4Ever,G,32,8,24,5,50
+5,Harry Potter,R,32,0,32,6,34
+5,The Dark Knight,R,35,0,35,7,45
+5,The Lord of the Rings,R,25,0,25,8,30
+5,Inception,R,34,0,34,9,40
+5,The Matrix,R,49,0,49,10,50
+5,Parasite,R,31,0,31,11,34
+5,Bridge to Terabithia,G,29,8,26,12,45
+5,Thunder Force,R,29,0,29,13,30
+5,The Nevers,G,27,8,26,14,40
+5,Love and Monsters,R,33,0,33,15,50
+5,Them,R,36,0,36,16,45
+5,Split,R,25,0,25,17,36
+5,Us,R,33,0,33,18,35
+5,Big Mommas,R,34,0,34,19,40
+6,The Hobbit,R,34,0,34,1,34
+6,Totoro,G,30,7,22,2,45
+6,Howls Moving Castle,G,28,7,21,3,30
+6,Spirited Away,G,37,9,27,4,40
+6,Pokemon 4Ever,G,26,6,19,5,50
+6,Harry Potter,R,25,0,25,6,34
+6,The Dark Knight,R,35,0,35,7,45
+6,The Lord of the Rings,R,29,0,29,8,30
+6,Inception,R,37,0,37,9,40
+6,The Matrix,R,36,0,36,10,50
+6,Parasite,R,31,0,31,11,34
+6,Bridge to Terabithia,G,42,7,22,12,45
+6,Thunder Force,R,28,0,28,13,30
+6,The Nevers,G,33,7,22,14,40
+6,Love and Monsters,R,35,0,35,15,50
+6,Them,R,27,0,27,16,45
+6,Split,R,35,0,35,17,36
+6,Us,R,35,0,35,18,35
+6,Big Mommas,R,33,0,33,19,40
+7,The Hobbit,R,33,0,33,1,34
+7,Totoro,G,37,9,27,2,45
+7,Howls Moving Castle,G,25,6,18,3,30
+7,Spirited Away,G,37,9,27,4,40
+7,Pokemon 4Ever,G,28,7,21,5,50
+7,Harry Potter,R,34,0,34,6,34
+7,The Dark Knight,R,41,0,41,7,45
+7,The Lord of the Rings,R,25,0,25,8,30
+7,Inception,R,39,0,39,9,40
+7,The Matrix,R,43,0,43,10,50
+7,Parasite,R,32,0,32,11,34
+7,Bridge to Terabithia,G,37,9,27,12,45
+7,Thunder Force,R,25,0,25,13,30
+7,The Nevers,G,30,9,27,14,40
+7,Love and Monsters,R,47,0,47,15,50
+7,Them,R,43,0,43,16,45
+7,Split,R,31,0,31,17,36
+7,Us,R,25,0,25,18,35
+7,Big Mommas,R,38,0,38,19,40

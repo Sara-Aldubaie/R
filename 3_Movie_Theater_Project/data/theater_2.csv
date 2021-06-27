@@ -1,0 +1,36 @@
+Day,Movie,Rating,Seats_Occupied,Num_Children,Num_Adult,Screen,Total_Seats_Available
+1,Another round,R,29,0,29,1,34
+1,Barkers,G,34,8,25,2,45
+1,Raya and the last dragon,G,25,6,18,3,30
+1,Nobody,R,35,8,26,4,40
+1,Maya the bee3,G,31,7,23,5,50
+2,Another round,R,27,6,20,1,34
+2,Barkers,G,41,10,30,2,45
+2,Raya and the last dragon,G,25,6,18,3,30
+2,Nobody,R,32,8,24,4,40
+2,Maya the bee3,G,36,9,27,5,50
+3,Another round,R,27,6,20,1,34
+3,Barkers,G,36,9,27,2,45
+3,Raya and the last dragon,G,27,6,20,3,30
+3,Nobody,R,38,9,28,4,40
+3,Maya the bee3,G,47,11,35,5,50
+4,Another round,R,33,8,24,1,34
+4,Barkers,G,25,6,18,2,45
+4,Raya and the last dragon,G,29,7,21,3,30
+4,Nobody,R,40,10,30,4,40
+4,Maya the bee3,G,34,8,25,5,50
+5,Another round,R,27,6,20,1,34
+5,Barkers,G,41,10,30,2,45
+5,Raya and the last dragon,G,25,6,18,3,30
+5,Nobody,R,36,9,27,4,40
+5,Maya the bee3,G,26,6,19,5,50
+6,Another round,R,26,6,19,1,34
+6,Barkers,G,27,6,20,2,45
+6,Raya and the last dragon,G,25,6,18,3,30
+6,Nobody,R,32,8,24,4,40
+6,Maya the bee3,G,29,7,21,5,50
+7,Another round,R,25,6,18,1,34
+7,Barkers,G,43,10,32,2,45
+7,Raya and the last dragon,G,28,7,21,3,30
+7,Nobody,R,36,9,27,4,40
+7,Maya the bee3,G,43,10,32,5,50
